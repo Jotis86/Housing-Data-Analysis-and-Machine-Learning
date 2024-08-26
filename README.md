@@ -91,6 +91,10 @@
 - Classification Models: Random Forest Classifier, SVM, Logistic Regression
 - Metrics: Accuracy, Precision, Recall, F1-Score
 
+## 📂 Estructura del proyecto
+- Datos
+- Notebook
+
 ## 📬 Contact
 - For any questions or suggestions, feel free to reach out via GitHub issues or contact me directly at jotaduranbon.com.
 
