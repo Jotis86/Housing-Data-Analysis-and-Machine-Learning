@@ -92,6 +92,6 @@
 - Metrics: Accuracy, Precision, Recall, F1-Score
 
 ## 📬 Contact
-- For any questions or suggestions, feel free to reach out via GitHub issues or contact me directly at your-email@example.com.
+- For any questions or suggestions, feel free to reach out via GitHub issues or contact me directly at jotaduranbon.com.
 
 Happy coding! 😊
