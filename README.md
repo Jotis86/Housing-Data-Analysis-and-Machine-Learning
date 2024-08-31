@@ -91,7 +91,7 @@
 - Classification Models: Random Forest Classifier, SVM, Logistic Regression
 - Metrics: Accuracy, Precision, Recall, F1-Score
 
-## 📂 Estructura del proyecto
+## 📂 Project Structure
 - Datos
 - Notebook
 
